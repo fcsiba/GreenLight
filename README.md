@@ -20,4 +20,4 @@ Follow these steps to run the application on your device:
   
 8- In the other Commad Prompt window, run the command "react-native run-android" and wait for the project to build and install on your        Android device.
 
-9- The application 'GL' installed on your phone will be launched once installation is complete. 
+9- The application 'GL' will be launched on your phone once the installation is complete. 
