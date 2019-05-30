@@ -10,9 +10,9 @@ Follow these steps to run the application on your device:
   
 3- Install node.js and react-native by running the command "npm install".
 
-4- Activate Developer Mode on the Android device you wish to run the application on. To do this, go to: Settings > System > About phone,      and tap on the Build numberseven times.
+4- Activate Developer Mode on the Android device you wish to run the application on. To do this, go to: Settings > System > About phone,      and tap on the Build number seven times.
 
-5- Enable USB debugging option in the Developer Settings Menu.
+5- Enable USB debugging option in the Developer Settings menu.
 
 6- Connect your Android device to your PC with a USB cable.
 
